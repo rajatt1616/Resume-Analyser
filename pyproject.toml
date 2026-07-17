@@ -1,0 +1,13 @@
+[project]
+name = "mini-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "groq>=1.5.0",
+    "pydantic>=2.13.4",
+    "pypdf>=6.14.2",
+    "python-dotenv>=1.2.2",
+    "streamlit>=1.59.2",
+]
